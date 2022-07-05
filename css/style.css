@@ -13,14 +13,14 @@ h1{
 }
 .first-section{
     display: flex;
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
 }
 .experience-section
 {
     display: flex;
-    background-image: url(/images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 
 }
@@ -43,7 +43,7 @@ h1{
 .dream-section{
     display: flex;
     margin-top:150px;
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
