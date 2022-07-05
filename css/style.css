@@ -1,0 +1,42 @@
+body{
+    font-family:'Roboto', sans-serif;
+    margin:0;
+    
+}
+span{
+    color:rgb(229, 153, 11);
+
+
+}
+h1{
+    font-size:50px;
+}
+.first-section{
+    display: flex;
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.half-width{
+    width:50%;
+    margin-left: 
+    5%;
+}
+.half-width img{
+    width:80%;
+    
+}
+.anchor-button{
+    background-image: linear-gradient(rgb(227, 156, 23),rgb(215, 46, 16));
+    padding: 10px 20px;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+}
+.dream-section{
+    display: flex;
+    margin-top:150px;
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
